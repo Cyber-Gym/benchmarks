@@ -1,1 +1,5 @@
 *.tar
+cybench/
+InterCode_CTF/
+*json
+*py
