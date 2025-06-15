@@ -1,5 +1,3 @@
 *.tar
 cybench/
-InterCode_CTF/
-*json
-*py
+InterCode_CTF/*py

@@ -1,0 +1,177 @@
+{
+  "2021f-cry-collision_course": {
+    "year": "2021",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "Collision-Course",
+    "path": "test/2021/CSAW-Finals/crypto/Collision-Course"
+  },
+  "2021q-for-lazy_leaks": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "Lazy-Leaks",
+    "path": "test/2021/CSAW-Quals/forensics/Lazy-Leaks"
+  },
+  "2021q-pwn-password_checker": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "Password-Checker",
+    "path": "test/2021/CSAW-Quals/pwn/Password-Checker"
+  },
+  "2020f-rev-rap": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "rap",
+    "path": "test/2020/CSAW-Finals/rev/rap"
+  },
+  "2020f-rev-sourcery": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "sourcery",
+    "path": "test/2020/CSAW-Finals/rev/sourcery"
+  },
+  "2020q-rev-baby_mult": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "baby_mult",
+    "path": "test/2020/CSAW-Quals/rev/baby_mult"
+  },
+  "2020q-cry-perfect_secrecy": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "perfect_secrecy",
+    "path": "test/2020/CSAW-Quals/crypto/perfect_secrecy"
+  },
+  "2020q-pwn-roppity": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "roppity",
+    "path": "test/2020/CSAW-Quals/pwn/roppity"
+  },
+  "2022q-rev-dockreleakage": {
+    "year": "2022",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "dockREleakage",
+    "path": "test/2022/CSAW-Quals/rev/dockREleakage"
+  },
+  "2023q-rev-baby_s_first": {
+    "year": "2023",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "baby's first",
+    "path": "test/2023/CSAW-Quals/rev/baby's first"
+  },
+  "2023q-rev-rebug_2": {
+    "year": "2023",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "rebug 2",
+    "path": "test/2023/CSAW-Quals/rev/rebug 2"
+  },
+  "2023q-rev-baby_s_third": {
+    "year": "2023",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "baby's third",
+    "path": "test/2023/CSAW-Quals/rev/baby's third"
+  },
+  "2023q-rev-rebug_1": {
+    "year": "2023",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "rebug 1",
+    "path": "test/2023/CSAW-Quals/rev/rebug 1"
+  },
+  "2023q-for-1black0white": {
+    "year": "2023",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "1black0white",
+    "path": "test/2023/CSAW-Quals/forensics/1black0white"
+  },
+  "2023q-pwn-puffin": {
+    "year": "2023",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "puffin",
+    "path": "test/2023/CSAW-Quals/pwn/puffin"
+  },
+  "2023q-pwn-my_first_pwnie": {
+    "year": "2023",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "my_first_pwnie",
+    "path": "test/2023/CSAW-Quals/pwn/my_first_pwnie"
+  },
+  "2019q-cry-super_curve": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "super_curve",
+    "path": "test/2019/CSAW-Quals/crypto/super_curve"
+  },
+  "2019q-pwn-baby_boi": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "baby_boi",
+    "path": "test/2019/CSAW-Quals/pwn/baby_boi"
+  },
+  "2017q-pwn-pilot": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "pilot",
+    "path": "test/2017/CSAW-Quals/pwn/pilot"
+  },
+  "2018f-msc-showdown": {
+    "year": "2018",
+    "event": "CSAW-Finals",
+    "category": "misc",
+    "challenge": "showdown",
+    "path": "test/2018/CSAW-Finals/misc/showdown"
+  },
+  "2018f-msc-leaked_flag": {
+    "year": "2018",
+    "event": "CSAW-Finals",
+    "category": "misc",
+    "challenge": "leaked_flag",
+    "path": "test/2018/CSAW-Finals/misc/leaked_flag"
+  },
+  "2018q-cry-babycrypto": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "babycrypto",
+    "path": "test/2018/CSAW-Quals/crypto/babycrypto"
+  },
+  "2018q-for-simple_recovery": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "simple-recovery",
+    "path": "test/2018/CSAW-Quals/forensics/simple-recovery"
+  },
+  "2018q-msc-algebra": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "algebra",
+    "path": "test/2018/CSAW-Quals/misc/algebra"
+  },
+  "2018q-pwn-get_it": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "get_it?",
+    "path": "test/2018/CSAW-Quals/pwn/get_it?"
+  }
+}
